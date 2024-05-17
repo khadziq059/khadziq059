@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+I am currently studying at Jenderal Soedirman University majoring in Informatics.
+## Skills
 
+* Programming Languages: Javascript, PHP, Java, Python, C++
+* Frameworks/Libraries: Laravel, CodeIgniter, NextJs
+* Other Skills: Data visualization, Ms. Word
 <!--
 **khadziq059/khadziq059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
